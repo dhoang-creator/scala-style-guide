@@ -21,3 +21,6 @@ Syntactic Styling and IDE Environment Styling
 Testing Styles
 
 build.sbt
+
+
+Git Commits
