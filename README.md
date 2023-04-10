@@ -18,6 +18,8 @@ Java Interoperability and borrowing conventions
 
 Syntactic Styling and IDE Environment Styling
 
+Special Examples - Generics, Databases et al
+
 Comments
 
 Testing Styles
