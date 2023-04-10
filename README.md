@@ -18,6 +18,8 @@ Java Interoperability and borrowing conventions
 
 Syntactic Styling and IDE Environment Styling
 
+Comments
+
 Testing Styles
 
 build.sbt
