@@ -8,27 +8,51 @@ Scala is a powerfully dynamic paradigmed language which can be expressed both fu
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
-Document History
+## <a name='TOC'>Table of Contents</a>
 
-Naming Conventions
+1. [Document History](#history)
 
-Imports
+2. [Syntactic Style](#syntactic)
+    * [Naming Convention](#naming)
+    * [Line Length](#linelength)
+    * [Rule of 30](#rule_of_30)
+    * [Spacing and Indentation](#indent)
+    * [Blank Lines (Vertical Whitespace)](#blanklines)
+    * [Curly Braces](#curly)
+    * [Long Literals](#long_literal)
+    * [Documentation Style](#doc)
+    * [Imports](#imports)
+    * [Pattern Matching](#pattern-matching)
+    * [Infix Methods](#infix)
+    * [Anonymous Methods](#anonymous)
 
-Methods
+3. [Scala Language Features](#lang)
+    * [Case Classes and Immutability](#case_class_immutability)
+    * [apply Method](#apply_method)
+    * [override Modifier](#override_modifier)
+    * [Multiple Parameter Lists](#multi-param-list)
+    * [Symbolic Methods (Operator Overloading)](#symbolic_methods)
+    * [Type Inference](#type_inference)
+    * [Return Statements](#return)
+    * [Recursion and Tail Recursion](#recursion)
+    * [Implicits](#implicits)
+    * [Exception Handling (Try vs try)](#exception)
+    * [Options](#option)
+    * [Monadic Chaining](#chaining)
+    * [Symbol Literals](#symbol)
 
-Scala Language Features
+4. [Java Interoperability](#java)
+    * [Java Features Missing from Scala](#java-missing-features)
+    * [Traits and Abstract Classes](#java-traits)
+    * [Type Aliases](#java-type-alias)
+    * [Default Parameter Values](#java-default-param-values)
+    * [Multiple Parameter Lists](#java-multi-param-list)
+    * [Varargs](#java-varargs)
+    * [Implicits](#java-implicits)
+    * [Companion Objects, Static Methods and Fields](#java-companion-object)
 
-Java Interoperability and borrowing conventions
+5. [Testing](#testing)
+    * [Intercepting Exceptions](#testing-intercepting)
 
-Syntactic Styling and IDE Environment Styling
-
-Special Examples - Generics, Databases et al
-
-Comments
-
-Testing Styles
-
-build.sbt
-
-
-Git Commits
+6. [Github](#github)
+    * [Git Commits](#git-commits)
