@@ -1,4 +1,4 @@
-# Scala-Style-Guide
+# dhoang-creator Scala Guide
 
 Attribution and Licence
 
