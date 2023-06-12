@@ -6,7 +6,7 @@ Having read multiple engineer's code over the past few years, this is something 
 
 Scala is a powerfully dynamic paradigmed language which can be expressed both functionally and through object oriented design and because of this, laying out a guide you adhere to throughout your career would ensure that there would be consistency within your work. This does not mean to say that once a style guide is written that it should always be adhered to without any alterations. Similar to ideas & perspectives, a style guide can change and evolve over time, it is simply that you as an individual contributor have an anchor to look back at and keep your code grounded.
 
-This work is licenced under a Creative Commons Attribution Non Commerical ShareAlike 4.0 International Licence.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
 Document History
 
