@@ -58,3 +58,12 @@ This does not mean to say that once a style guide is written that it should alwa
 
 6. [Github](#github)
     * [Git Commits](#git-commits)
+
+## <a name='syntactic'>Syntactic Style</a>
+
+### <a name='naming'>Naming Convention</a>
+
+Since we don't come from a Java background, we mostly follow Scala's standard naming conventions
+
+- Classes, traits, and objects should follow standard Scala convention i.e. PascalCase Style.
+- Packages should follow the normal Scala package naming conventions i.e. all-lowercase ASCII letters.
