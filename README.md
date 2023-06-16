@@ -1,6 +1,6 @@
 # dhoang-creator Scala Guide
 
-Whilst studying Software Engineering at college, we were not only assessed on whether the programs we created behaved as they shoyld have but also whether it adhered to a strict style guide. The aim of this style guide was to ensure that we got into the habit of writing code that was both clearly readable and properly formatted so it would be easier for others to understand. 
+The aim of this style guide is to ensure that we get into the habit of writing code that is both clearly readable, properly formatted & consistent with other projects in this user profile thus ensuring that others can understand the code they are reading. 
 
 Having read multiple engineer's code over the past few years, this is something that can certainly be worked upon as many accidentally follow readability anti-patterns.
 
