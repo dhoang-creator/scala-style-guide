@@ -21,6 +21,7 @@ This does not mean to say that once a style guide is written that it should alwa
     * [Spacing and Indentation](#indent)
     * [Blank Lines (Vertical Whitespace)](#blanklines)
     * [Curly Braces](#curly)
+    * [Non Curly Braces in Scala 3](non_curly_braces_in_Scala_3)
     * [Long Literals](#long_literal)
     * [Documentation Style](#doc)
     * [Imports](#imports)
@@ -57,6 +58,8 @@ This does not mean to say that once a style guide is written that it should alwa
     * [Intercepting Exceptions](#testing-intercepting)
 
 6. [Github](#github)
+    * [Github Project Naming Convention](#github-project-naming-convention)
+    * [Github Project ReadMEs](#github-project-readmes)
     * [Git Commits](#git-commits)
 
 ## <a name='syntactic'>Syntactic Style</a>
