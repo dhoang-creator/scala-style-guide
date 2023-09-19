@@ -70,3 +70,22 @@ Since we don't come from a Java background, we mostly follow Scala's standard na
 
 - Classes, traits, and objects should follow standard Scala convention i.e. PascalCase Style.
 - Packages should follow the normal Scala package naming conventions i.e. all-lowercase ASCII letters.
+- Methods/functions should be named in camelCase style.
+
+Variable Naming Convention
+
+- Variables should be named in camelCase style, and should have self-evident/ self-explanatory names.
+- One-character variable names are allowed but only in instances of mathematical operations where the variables are only being called upon in the method signature and method body.
+
+### <a name='linelength'>Line Length</a>
+
+- Limit lines to 100 characters (this needs to be revisited)
+- Exceptions should only include URLs (although these should follow the above convention)
+
+### <a name='rule_of_30'>Rule of 30</a>
+
+"If an element consists of more than 30 subelements, it is highly probable that there is a serious problem" - Refactoring in Large Software Projects
+
+In general:
+- A method should contain less than 30 lines of code
+- A class should contain less than 30 methods
